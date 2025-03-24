@@ -1,0 +1,13 @@
+Manejo de archivos en Python
+Manipular archivos es una actividad importante en cada aplicación web. Los tipos de actividades que se pueden realizar en el archivo abierto están controlados por los Modos de Acceso. Estos describen cómo se utilizará el archivo después de haber sido abierto.
+
+Estos Modos de Acceso también especifican dónde debe ubicarse el controlador de archivo dentro del archivo. Similar a un puntero, un controlador de archivo indica dónde se deben leer o colocar los datos en el archivo.
+
+En Python, hay seis métodos o modos de acceso, que son:
+
+Solo lectura (‘r’): Este modo abre los archivos de texto solo para lectura. El inicio del archivo es donde se encuentra el controlador. Si el archivo no existe, se produce un error de I/O. Este es el modo predeterminado para abrir archivos.
+Leer y escribir (‘r+’): Este método abre el archivo tanto para lectura como para escritura. El inicio del archivo es donde se encuentra el controlador. Si el archivo no existe, se produce un error de I/O.
+Solo escritura (‘w’): Este modo abre el archivo solo para escritura. Los datos en los archivos existentes se modifican y sobrescriben. El inicio del archivo es donde se encuentra el controlador. Si el archivo aún no existe en la carpeta, se crea uno nuevo.
+Escribir y leer (‘w+’): Este modo abre el archivo tanto para lectura como para escritura. El texto se sobrescribe y se elimina de un archivo existente. El inicio del archivo es donde se encuentra el controlador.
+Solo agregar (‘a’): Este modo permite abrir el archivo para escritura. Si el archivo aún no existe, se crea uno nuevo. El controlador se establece al final del archivo. Los datos recién escritos se agregarán al final, siguiendo los datos escritos anteriormente.
+Agregar y leer (‘a+’): Usando este método, puedes leer y escribir en el archivo. Si el archivo aún no existe, se crea uno nuevo. El controlador se establece al final del archivo. El texto recién escrito se agregará al final, siguiendo los datos escritos anteriormente.

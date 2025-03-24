@@ -1,0 +1,37 @@
+Título,Autor,Año de publicación
+Cien años de soledad,Gabriel García Márquez,1967
+Cien años de soledad,Gabriel García Márquez,1967
+El amor en los tiempos del cólera,Gabriel García Márquez,1985
+Don Quijote de la Mancha,Miguel de Cervantes,1605
+La sombra del viento,Carlos Ruiz Zafón,2001
+Rayuela,Julio Cortázar,1963
+Pedro Páramo,Juan Rulfo,1955
+El laberinto de la soledad,,1950
+Ficciones,Jorge Luis Borges,1944
+Crónica de una muerte anunciada,Gabriel García Márquez,
+La casa de los espíritus,Isabel Allende,1982
+El alquimista,Paulo Coelho,1988
+Crónica de una muerte anunciada,Gabriel García Márquez,1981
+Cien años de soledad,Gabriel García Márquez,1967
+El túnel,Ernesto Sabato,
+El ingenioso hidalgo don Quijote de la Mancha,Miguel de Cervantes,1605
+La ciudad y los perros,Mario Vargas Llosa,1963
+Hopscotch,Julio Cortázar,1963
+El coronel no tiene quien le escriba,Gabriel García Márquez,1961
+La región más transparente,,1958
+La tregua,Mario Benedetti,1960
+Ficciones,Jorge Luis Borges,1944
+Sobre héroes y tumbas,Ernesto Sabato,1961
+La casa verde,Mario Vargas Llosa,abc
+El Señor Presidente,Miguel Ángel Asturias,1946
+Cuentos de amor de locura y de muerte,Horacio Quiroga,1917
+Bestiario,Julio Cortázar,1951
+Conversación en La Catedral,Mario Vargas Llosa,1969
+Paradiso,José Lezama Lima,1966
+La ciudad y los perros,Mario Vargas Llosa,3963
+Ficciones,Jorge Luis Borges,1944
+El siglo de las luces,Alejo Carpentier,1962
+Terra Nostra,Carlos Fuentes,1975
+La muerte de Artemio Cruz,Carlos Fuentes,1962
+La guerra del fin del mundo,Mario Vargas Llosa,1981
+Rayuela,Julio Cortázar,-1963

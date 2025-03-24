@@ -1,0 +1,64 @@
+---- Books by Author ----
+
+📖 Horacio Quiroga
+  - Cuentos de amor de locura y de muerte (1917)
+
+📖 Carlos Fuentes
+  - La muerte de Artemio Cruz (1962)
+  - Terra Nostra (1975)
+
+📖 Mario Benedetti
+  - La tregua (1960)
+
+📖 Paulo Coelho
+  - El alquimista (1988)
+
+📖 Mario Vargas Llosa
+  - La ciudad y los perros (1963)
+  - Conversación en La Catedral (1969)
+  - La casa verde (0)
+  - La guerra del fin del mundo (1981)
+
+📖 Miguel Ángel Asturias
+  - El Señor Presidente (1946)
+
+📖 Isabel Allende
+  - La casa de los espíritus (1982)
+
+📖 Miguel de Cervantes
+  - El ingenioso hidalgo don Quijote de la Mancha (1605)
+  - Don Quijote de la Mancha (1605)
+
+📖 Gabriel García Márquez
+  - Crónica de una muerte anunciada (1981)
+  - El coronel no tiene quien le escriba (1961)
+  - Cien años de soledad (1967)
+  - El amor en los tiempos del cólera (1985)
+
+📖 Juan Rulfo
+  - Pedro Páramo (1955)
+
+📖 Julio Cortázar
+  - Hopscotch (1963)
+  - Rayuela (1963)
+  - Bestiario (1951)
+
+📖 José Lezama Lima
+  - Paradiso (1966)
+
+📖 Ernesto Sabato
+  - Sobre héroes y tumbas (1961)
+  - El túnel (0)
+
+📖 Jorge Luis Borges
+  - Ficciones (1944)
+
+📖 Carlos Ruiz Zafón
+  - La sombra del viento (2001)
+
+📖 Alejo Carpentier
+  - El siglo de las luces (1962)
+
+📖 Author Unknown
+  - El laberinto de la soledad (1950)
+  - La región más transparente (1958)
