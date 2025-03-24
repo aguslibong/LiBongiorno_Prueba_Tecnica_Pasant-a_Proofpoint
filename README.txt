@@ -9,9 +9,10 @@ Al darle Run en el main, se leera el archivoCVS y se generaran los resportes en 
 Instrucciones de uso Análisis de Frecuencia de Palabras (Python):
 
 Abrir cmd en la carpeta donde se encuentra el archivo y ejecutar:
-py script.py <ruta archivo texto>
+py script.py <ruta archivo texto> o python script.py <ruta archivo texto>
+
 el de pruba es py script.py prueba.txt
 
 
-Gracias por confiarr, espero me tengan en cuenta.
+Gracias por confiar, espero me tengan en cuenta.
 Agustin Li Bongiorno
